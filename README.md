@@ -7,11 +7,11 @@
 
 ## 关于我 | About Me
 
-我在中国农业科学院农业基因组研究所担任生物信息学工程师已有6年，专注于基因组学和群体遗传学领域。我的核心工作包括开发生物信息学分析工具、进行小麦/豌豆的群体遗传分析以及基因挖掘。
+我拥有六年生物信息工程师经验，专注于基因组学和群体遗传学领域。我的核心工作包括开发生物信息学分析工具、进行小麦/豌豆的群体遗传分析以及基因挖掘。相关成果发表在《Nature》等国际期刊上。
 
-擅长开发生物信息分析工具、工作流程和搭建专业化网站。热爱为开源社区和技术社区贡献知识和经验。对于复杂任务，我有着设计创新解决方案的天赋，并且一直在学习和实践新技术与工具。
+擅长开发生物信息分析工具、工作流程和搭建专业化网站。热爱为开源社区和技术社区贡献知识和经验。对于复杂任务，我有着设计创新解决方案的能力，并且一直在学习和实践新技术与工具。
 
-*As a Bioinformatics Engineer at the Agricultural Genomics Institute, Chinese Academy of Agricultural Sciences for 6 years, I've immersed myself in the realms of genomics and population genetics. My pivotal roles have spanned from the development of bioinformatics tools, conducting population genetic analyses on wheat/pea, to gene mining.*
+*As a Bioinformatics Engineer at the Agricultural Genomics Institute, Chinese Academy of Agricultural Sciences for 6 years, I've immersed myself in the realms of genomics and population genetics. My pivotal roles have spanned from the development of bioinformatics tools, conducting population genetic analyses on wheat/pea, to gene mining. My contributions have been recognized in esteemed international journals, including *Nature*.*
 
 *Proficient in crafting bioinformatics analysis tools, workflows, and setting up specialized websites. Love to contribute to open sources and tech communities by sharing knowledge and experience. I have an innate interest in devising innovative problem‑solving methodologies for intricate tasks and am always on the hunt to learn and implement new technologies and tools.*
 
@@ -50,11 +50,11 @@
 
 ## 发表论文 | Publications
 
-- **Feng, Cong**, Baizhi Chen, Julie Hofer, et al. "Genomic and Genetic Insights into Mendel's Pea Genes." *Nature*, April 23, 2025. [https://doi.org/10.1038/s41586-025-08891-6](https://doi.org/10.1038/s41586-025-08891-6)
+- **Feng, Cong**, Baizhi Chen, Julie Hofer, et al. "Genomic and Genetic Insights into Mendel's Pea Genes." ***Nature***, April 23, 2025. [https://doi.org/10.1038/s41586-025-08891-6](https://doi.org/10.1038/s41586-025-08891-6)
 
-- Cheng, Shifeng, **Cong Feng**, Luzie U. Wingen, et al. "Harnessing Landrace Diversity Empowers Wheat Breeding." *Nature* 632, no. 8026 (August 22, 2024): 823–31. [https://doi.org/10.1038/s41586-024-07682-9](https://doi.org/10.1038/s41586-024-07682-9)
+- Cheng, Shifeng, **Cong Feng**, Luzie U. Wingen, et al. "Harnessing Landrace Diversity Empowers Wheat Breeding." ***Nature*** 632, no. 8026 (August 22, 2024): 823–31. [https://doi.org/10.1038/s41586-024-07682-9](https://doi.org/10.1038/s41586-024-07682-9)
 
-- **Feng, Cong**, Xingwei Wang, Shishi Wu, et al. "HAPPE: A Tool for Population Haplotype Analysis and Visualization in Editable Excel Tables." *Frontiers in Plant Science* 13 (July 1, 2022): 927407. [https://doi.org/10.3389/fpls.2022.927407](https://doi.org/10.3389/fpls.2022.927407)
+- **Feng, Cong**, Xingwei Wang, Shishi Wu, et al. "HAPPE: A Tool for Population Haplotype Analysis and Visualization in Editable Excel Tables." ***Frontiers in Plant Science*** 13 (July 1, 2022): 927407. [https://doi.org/10.3389/fpls.2022.927407](https://doi.org/10.3389/fpls.2022.927407)
 
 ## 我的项目 | Portfolio
 
